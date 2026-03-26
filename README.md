@@ -1,1 +1,1 @@
-# voiceread-ai
+# lecturemind
